@@ -1,0 +1,7 @@
+project_id = "achieve"
+
+[functions.generate-roadmap]
+verify_jwt = true
+
+[functions.coach-chat]
+verify_jwt = true
